@@ -1,0 +1,50 @@
+## Basic Configuration
+
+baseurl = "/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Yixi Zhang"
+title = "Yixi Zhang"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Yixi Zhang"
+intro = "Hack on time, think about universe."
+description = "Now @stealth startup. Previously @memsql and @facebook. <br/> \"I live life on hard mode!\""
+authorimage = "headshot.png"
+dateformat = "April 15, 2012"
+
+## Site Meta Settings
+[params.meta]
+description = "hack and life"
+keywords = "minimalist,developer"
+
+## Social Accounts
+[params.social]
+github = "yixizhang"
+linkedin = "yixizhang"
+twitter = "yixiza"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Yixi Zhang."
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
