@@ -22,7 +22,7 @@ enableRobotsTXT = true
 author = "Yixi Zhang"
 intro = "Hack on time, think about universe."
 description = "Now @stealth startup. Previously @memsql and @facebook. <br/> \"I live life on hard mode!\""
-authorimage = "headshot.png"
+authorimage = "headshot.jpg"
 dateformat = "April 15, 2012"
 
 ## Site Meta Settings
