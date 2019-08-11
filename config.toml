@@ -21,7 +21,7 @@ enableRobotsTXT = true
 [params]
 author = "Yixi Zhang"
 intro = "Hack on time, think about universe."
-description = "Now @stealth startup. Previously @memsql and @facebook. <br/> \"I live life on hard mode!\""
+description = "Now <a href='https://www.woven.com'>Woven</a>. Previously <a href='https://www.memsql.com'>MemSQL</a> and <a href='https://www.facebook.com'>Facebook</a>."
 authorimage = "headshot.jpg"
 dateformat = "April 15, 2012"
 
@@ -38,7 +38,7 @@ twitter = "yixiza"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Yixi Zhang."
+copyright = "© 2019. Yixi Zhang."
 poweredby = true
 hightlightjs = true
 
