@@ -21,7 +21,7 @@ enableRobotsTXT = true
 [params]
 author = "Yixi Zhang"
 intro = "I write infinite loops at startup"
-description = "Previously <a href='https://www.woven.com'>Woven</a> <a href='https://www.memsql.com'>MemSQL</a> <a href='https://www.facebook.com'>Facebook</a>."
+description = "Previously @Woven @MemSQL @Facebook"
 authorimage = "headshot.jpg"
 dateformat = "April 15, 2012"
 
