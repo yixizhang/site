@@ -1,12 +1,4 @@
 {
   "version": 2,
-  "scripts": {
-		"build": "hugo"
-	},
-  "build": {
-    "env": {
-      "HUGO_VERSION": "0.62.2"
-    }
-  },
   "alias": "yixi-zhang.xyz"
 }
