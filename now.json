@@ -1,4 +1,12 @@
 {
   "version": 2,
+  "github": {
+    "silent": true
+  },
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.62.2"
+    }
+  },
   "alias": "yixi-zhang.xyz"
 }
