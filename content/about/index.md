@@ -1,6 +1,8 @@
-# About Me
+# About Yixi
 
-A engineering nerd who loves reading and working on distributed system and programming languages. 
+
+Engineering nerd who loves backend systems and programming languages. 
+
 
 YES | NO
 --- | ---
