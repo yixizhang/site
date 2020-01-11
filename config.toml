@@ -20,8 +20,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Yixi Zhang"
-intro = "Hack on time, think about universe."
-description = "Now <a href='https://www.woven.com'>Woven</a>. Previously <a href='https://www.memsql.com'>MemSQL</a> and <a href='https://www.facebook.com'>Facebook</a>."
+intro = "I write code at startup"
+description = "Previously <a href='https://www.woven.com'>Woven</a>, <a href='https://www.memsql.com'>MemSQL</a> and <a href='https://www.facebook.com'>Facebook</a>."
 authorimage = "headshot.jpg"
 dateformat = "April 15, 2012"
 
