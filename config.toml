@@ -20,8 +20,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Yixi Zhang"
-intro = "I write code at startup"
-description = "Previously <a href='https://www.woven.com'>Woven</a>, <a href='https://www.memsql.com'>MemSQL</a> and <a href='https://www.facebook.com'>Facebook</a>."
+intro = "I write infinite loops at startup"
+description = "Previously <a href='https://www.woven.com'>Woven</a> <a href='https://www.memsql.com'>MemSQL</a> <a href='https://www.facebook.com'>Facebook</a>."
 authorimage = "headshot.jpg"
 dateformat = "April 15, 2012"
 
@@ -38,7 +38,7 @@ twitter = "yixiza"
 
 ## Extras
 [params.extra]
-copyright = "© 2019. Yixi Zhang."
+copyright = "© 2020. Yixi Zhang."
 poweredby = true
 hightlightjs = true
 
